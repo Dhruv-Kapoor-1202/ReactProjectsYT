@@ -10,6 +10,7 @@
 
 import { useState } from "preact/hooks";
 import data from "./data";
+import './styles.css'
 
 const Accordian = () => {
 
