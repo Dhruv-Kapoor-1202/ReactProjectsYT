@@ -55,7 +55,8 @@ const RandomColor = () => {
       background: color,
       display: 'flex',
       flexDirection: 'column',
-      border: '1px solid black'
+      border: '1px solid black',
+      borderTop: '0'
     }}>
       <div style={{
         display: 'flex',
