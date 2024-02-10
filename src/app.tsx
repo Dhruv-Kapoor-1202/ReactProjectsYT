@@ -1,4 +1,5 @@
 import Accordian from "./components/accordian"
+import './App.css';
 
 export function App() {
 
