@@ -37,16 +37,16 @@ Here's a list of the projects available in this repository:
 
 1. Project 1: [Accordian](src/components/accordian)
 
-[comment]: #Each project directory contains its own README.md file with specific
+[comment]: # Each project directory contains its own README.md file with specific
 instructions and notes related to that project.
 
 ## Contributing
 
 Contributions to this repository are welcome! If you find any issues or
 improvements, feel free to open an issue or submit a pull request. 
-[comment]: #Please adhere
-[comment]: #to the project's coding standards and follow the contribution guidelines
-[comment]: #outlined in the CONTRIBUTING.md file.
+[comment]: # Please adhere
+[comment]: # to the project's coding standards and follow the contribution guidelines
+[comment]: # outlined in the CONTRIBUTING.md file.
 
 ## License
 
