@@ -27,10 +27,9 @@ resources required for the project.
 To get started with these projects, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Navigate to the project directory you're interested in.
-3. Install dependencies using `npm install` or `yarn install` or `pnpm install`.
-4. Run the project using `npm run dev` or `yarn start` or `pnpm run dev`.
-5. Open your web browser and navigate to http://localhost:5173.
+2. Install dependencies using `npm install` or `yarn install` or `pnpm install`.
+3. Run the project using `npm run dev` or `yarn start` or `pnpm run dev`.
+4. Open your web browser and navigate to http://localhost:5173.
 
 ## Project List
 
@@ -38,16 +37,16 @@ Here's a list of the projects available in this repository:
 
 1. Project 1: [Accordian](src/components/accordian)
 
-// Each project directory contains its own README.md file with specific
+[comment]: Each project directory contains its own README.md file with specific
 instructions and notes related to that project.
 
 ## Contributing
 
 Contributions to this repository are welcome! If you find any issues or
 improvements, feel free to open an issue or submit a pull request. 
-// Please adhere
-to the project's coding standards and follow the contribution guidelines
-outlined in the CONTRIBUTING.md file.
+[comment]: Please adhere
+[comment]:to the project's coding standards and follow the contribution guidelines
+[comment]:outlined in the CONTRIBUTING.md file.
 
 ## License
 
