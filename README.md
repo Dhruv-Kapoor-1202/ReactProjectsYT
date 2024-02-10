@@ -37,6 +37,7 @@ Here's a list of the projects available in this repository:
 
 1. Project 1: [Accordian](src/components/accordian)
 2. Project 2: [Random Color Generator](src/components/random-color)
+3. Project 3: [Star Rating Component](src/components/star-rating)
 
 <!-- [comment]: # Each project directory contains its own README.md file with specific -->
 <!-- instructions and notes related to that project. -->
