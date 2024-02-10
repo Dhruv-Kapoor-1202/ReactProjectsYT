@@ -36,6 +36,7 @@ To get started with these projects, follow these steps:
 Here's a list of the projects available in this repository:
 
 1. Project 1: [Accordian](src/components/accordian)
+2. Project 2: [Random Color Generator](src/components/random-color)
 
 <!-- [comment]: # Each project directory contains its own README.md file with specific -->
 <!-- instructions and notes related to that project. -->
