@@ -3,6 +3,7 @@ import './App.css';
 import RandomColor from "./components/random-color";
 import StarRating from "./components/star-rating";
 import ImageSlider from "./components/image-slider";
+import LoadMoreData from "./components/load-more-data";
 
 export function App() {
 
@@ -23,6 +24,9 @@ export function App() {
         page="1"
         limit="10"
       />
+
+      {/* Load More Products Component */}
+      <LoadMoreData />
     </>
   )
 }
