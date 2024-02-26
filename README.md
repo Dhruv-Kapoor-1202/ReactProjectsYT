@@ -39,6 +39,7 @@ Here's a list of the projects available in this repository:
 2. Project 2: [Random Color Generator](src/components/random-color)
 3. Project 3: [Star Rating Component](src/components/star-rating)
 4. Project 4: [Image Slider Component](src/components/image-slider)
+5. Project 5: [Load More Products Component](src/components/load-more-data)
 
 <!-- [comment]: # Each project directory contains its own README.md file with specific -->
 <!-- instructions and notes related to that project. -->
